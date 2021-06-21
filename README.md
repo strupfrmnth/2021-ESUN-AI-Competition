@@ -42,7 +42,7 @@ We use 'model_data' to train model. 'model_data' is part of Esun Bank data and o
 
 Run EfficientNet-3000.ipynb to train the model.
 
-## Evaluatation
+## Evaluation
 We use 'idx2class3000.pkl' to change the indices of model prediction into Chinese words for simplicity. 'wordset800.txt' is the 800 classes of the competition. We transform the words which is not in 800 classes into 'isnull'.
 
 Run Evaluation.ipynb to evaluate the model.
