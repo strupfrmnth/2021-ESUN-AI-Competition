@@ -31,10 +31,6 @@ We put the code and data as the structure below.
 │   └──...
 ├── models
 │   └── efficientnet-b3-3000.pth
-├── result // for evaluation result
-│   └──...
-├── runs_efficientnet_b3_3000 // for tensorboard
-│   └──...
 ├─ EfficientNet-3000.ipynb
 ├─ Evaluation.ipynb
 ├─ idx2class3000.pkl
